@@ -3,7 +3,7 @@ entries:
   helm-repos:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-09T13:09:14.425408Z"
+    created: "2022-11-09T13:11:00.17643Z"
     description: A Helm chart for Kubernetes
     digest: 1085c5355cd68e20a81c5298afccc481bad4957330447bd46d90402b7b8064f5
     name: helm-repos
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://mayanklbg.github.io/helm-repos/charts/helm-repos-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-09T13:09:14.424958Z"
+generated: "2022-11-09T13:11:00.175969Z"
